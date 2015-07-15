@@ -1,0 +1,90 @@
+/*
+selector {
+  property:value;
+}
+*/
+em {
+  font-style:italic;
+  text-transform:uppercase;
+}
+
+
+h2 {
+  font-size:150%
+}
+
+
+.scrollbox{
+  height:200px;
+  width:500px;
+  overflow:scroll;
+  float:right;
+}  
+
+
+
+
+strong {
+  color: blue;
+  background-color:green
+}
+#allcontent{
+  margin-left:auto;
+  margin-right:auto;
+}  
+
+
+
+#left{
+  padding:15px;
+  margin:10px;
+  width:150px;
+  float:left;
+  
+}
+
+#right{
+  padding:15px;
+  margin:10px;
+  width:150px;
+  float:right;
+
+}
+
+#middle{
+width:150px;
+margin: 0px 10px 10px 250px;
+ 
+
+}
+
+
+#order {
+  color:red;
+}
+
+.song {
+  color:blue;
+}
+
+body {
+color: #FFFFFF;
+font-size: #18;
+font-family: Arial;
+background-color:Black;
+}
+
+
+
+.box{
+  border:20px groove green;
+  width:700px;
+  background-color:orange;
+  padding:1em;
+}
+
+
+.box{
+  border:20px groove green;
+  width:700px;
+}
